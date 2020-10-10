@@ -1,5 +1,8 @@
 # Smart-ED-Eduction-Recommendation-System
 
+#### Please refer to the master notebook - Master_file_Group_11_Project_V2.ipynb
+#### Please refer to the project report and a short presentation attached
+
 # Summary
 
 The demand for data science skills is surging due to a rise in the use of AI and Machine Learning across industries. To meet this demand, the University of Toronto is looking to customize its courses to better suit the skills being demanded by industry. 
